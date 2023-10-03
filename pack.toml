@@ -1,0 +1,13 @@
+name = "The Yorha Pact"
+author = "LTN_Akagi"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d909e969eb3ffc533bdfac6760cb226d3f3bbb9cdc1ccc9077faa58f1f6ce56c"
+
+[versions]
+forge = "43.2.12"
+minecraft = "1.19.2"
