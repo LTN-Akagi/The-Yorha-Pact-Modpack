@@ -196,6 +196,11 @@ hash = "825ecd73e0dfd4726aa26a74448b839cd50813615743e7ed14807af3dd2196f0"
 metafile = true
 
 [[files]]
+file = "mods/laserio.pw.toml"
+hash = "bbda27d3e070cbe2eec4740b93222694f0a86f50f74edde5f5b23d4c0f13f4c0"
+metafile = true
+
+[[files]]
 file = "mods/libx.pw.toml"
 hash = "fb537f8737c8ee73a27c661ada6636b972a9a580dfd989bd1eabbec50b97a901"
 metafile = true
@@ -271,8 +276,18 @@ hash = "f0584d99220f2d315552d96b87d4f13e50034a40353b95d1f2b8fda68effab85"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "306cbb32a5e21015ea1e6e79f2175bff33213abd18af4403e4b9bc72adf4e28d"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "4dc80e749611a80cdf0b21e9ac1d10ea438dd47a70d2bc050ca64b2c7c4bd964"
 metafile = true
 
 [[files]]
