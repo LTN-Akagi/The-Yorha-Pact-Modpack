@@ -111,6 +111,16 @@ hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true
 
 [[files]]
+file = "mods/enderchests.pw.toml"
+hash = "ae9724769a0cf2513f7fada34244422fb282b3ddf3b65fab9ce0e676fc31390f"
+metafile = true
+
+[[files]]
+file = "mods/endertanks.pw.toml"
+hash = "b19a3aa3cc9f6928836eba2f24b0b8165f86c036640be4f58bd6da0ff09a3e4f"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
 metafile = true
@@ -316,8 +326,18 @@ hash = "41aa77632a5ed56e02b6c66ecc8c2996d8738e8a6c8acbbdc3973a2547ac570c"
 metafile = true
 
 [[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "07d36f9449e14233a3ada99323dc5534d981f1206604989b4509a65be41c0895"
+metafile = true
+
+[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "0f1b9970b4dddf8ff69a778c25dcadda8e91e0305c26581ebb7c1d7f54c3b7f9"
+metafile = true
+
+[[files]]
+file = "mods/simple-drying-racks.pw.toml"
+hash = "f2ae20ddc9f4bee0dabc3bce7314aa8376213f1770e505efc6c7956f77f00bb3"
 metafile = true
 
 [[files]]
