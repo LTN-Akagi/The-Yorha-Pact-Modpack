@@ -76,6 +76,16 @@ hash = "97575aefd081117027b3ac2c24bf7a56b927b41c9f724d91b0eb42442236b4f6"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "74ee8faa0009467adfd9366f831c55571b614d2c486718b21d5d5f5ad78a2fa4"
+metafile = true
+
+[[files]]
+file = "mods/create-train-additions.pw.toml"
+hash = "0aad1bd660fac01c0b22fa5769e966e314e7daa53ecf088d3fffaf8c39e02d17"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "c0c8819595b27c1aff854c8570acc3fe87dd42d88d8219e7abdd4781257d6ac2"
 metafile = true
