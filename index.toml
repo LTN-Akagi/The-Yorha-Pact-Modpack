@@ -131,6 +131,11 @@ hash = "b19a3aa3cc9f6928836eba2f24b0b8165f86c036640be4f58bd6da0ff09a3e4f"
 metafile = true
 
 [[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "d127e484368f38af2791d8e9964a9d292934ddf9182f9c62b1c3cd5211b05795"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
 metafile = true
@@ -381,8 +386,23 @@ hash = "99d9554fc027d88ac5cbb5665ce4389d26e397dfdc29518a11ca58b51efb7e1e"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1f20786408ae526f5df6a6cde7c04c4dd4afc2d87d5bc24a109687622f9db356"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "54d63280847c1aeda342100d55fc63cbfcf9732c24f1e0cda325bc7216aadc05"
+metafile = true
+
+[[files]]
 file = "mods/team-projecte.pw.toml"
 hash = "31eea5c603626b68fcdddf4147e65c86c0cfbae9d947e05aa95e5b472d642cdf"
+metafile = true
+
+[[files]]
+file = "mods/tempad.pw.toml"
+hash = "7931998071713200c981b335fa5c7e238ee2e9453a6675ef096872cb16f36905"
 metafile = true
 
 [[files]]
@@ -398,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "2d6ae9336d21ea6a268a442acc932ebf2915ca0bbeb62c75facb8494815858b9"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "38cee16f00ed950e1f245f9de86dfbff938125f0461ad326fa81f659724a5d84"
 metafile = true
 
 [[files]]
