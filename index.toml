@@ -426,11 +426,6 @@ hash = "f046ff6406364b09df7ecc21f788c2f1fff761f8f97b0417a516f1c2e7df6ee0"
 metafile = true
 
 [[files]]
-file = "mods/sleepable-create.pw.toml"
-hash = "11e0fb74ca2104adb1a6b543bc68f4341a840984aebc5b8200c57b0233adb2e5"
-metafile = true
-
-[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "f9c1c13b751f8c396a8d64605b29da6e1b18b955dbcbcad986068d167ed57ea0"
 metafile = true
