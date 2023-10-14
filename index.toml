@@ -236,6 +236,11 @@ hash = "d77e58b40c750ede0271f604b98e1686c1ec1b1927ad03da5859530fb28a176e"
 metafile = true
 
 [[files]]
+file = "mods/hourglass.pw.toml"
+hash = "0fd4e39201d42fc5f347a386b0beedcb7a9e81e3dcf7752d3ae88cd3968e0d27"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "03eda3cb7e6a184e591d5853b12125a8b26634363ebfd00f069f177bbe190421"
 metafile = true
