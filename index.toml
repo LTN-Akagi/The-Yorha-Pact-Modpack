@@ -171,6 +171,11 @@ hash = "b19a3aa3cc9f6928836eba2f24b0b8165f86c036640be4f58bd6da0ff09a3e4f"
 metafile = true
 
 [[files]]
+file = "mods/extra-disks.pw.toml"
+hash = "fa71fee27ddbe8c9fcad5554629334a4692157a5c43b91d2cd8e67e4bf87c484"
+metafile = true
+
+[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "d127e484368f38af2791d8e9964a9d292934ddf9182f9c62b1c3cd5211b05795"
 metafile = true
@@ -311,6 +316,11 @@ hash = "8958d700cb45ca9dab94fe314702e0c548a31b2d5e83711433923a3018ac71a8"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "5da4f927ed15f0cb187a5fc90af5ba7772e257521cc9537d095bc2287a44de09"
+metafile = true
+
+[[files]]
 file = "mods/measurements.pw.toml"
 hash = "0f733fab14b7f42c6a41da147edf277a937a2c494c8c38ff6df4547fa3935df6"
 metafile = true
@@ -401,6 +411,31 @@ hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "76c979281f6f7b7ad2ad42f362184b2d52beb73e2a17bfe4a0eedcb1a684a098"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "7c0f5c7e3bbb3607a6d6382409274a95acdf050192dd355a0bab2b457abc3868"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "24526ea2704666392c22822e2939c3eeb9968062e6d6ffe36afdc516552baf6d"
+metafile = true
+
+[[files]]
+file = "mods/rftools-storage.pw.toml"
+hash = "485aa62a98e906a195fc7c5d687f2a44b92f5655de348b5e3b38f4dbaf78cace"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "89cb63df186c3accb5d4dfd34ac4a527c6601dde043c51d315323d8b04a46dab"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "3ff8c8b3282ec0c0a4ce16853acf5b7dd23297d4b557b280668b459739c709d0"
 metafile = true
@@ -428,11 +463,6 @@ metafile = true
 [[files]]
 file = "mods/simple-drying-racks.pw.toml"
 hash = "f2ae20ddc9f4bee0dabc3bce7314aa8376213f1770e505efc6c7956f77f00bb3"
-metafile = true
-
-[[files]]
-file = "mods/simple-storage-network.pw.toml"
-hash = "f046ff6406364b09df7ecc21f788c2f1fff761f8f97b0417a516f1c2e7df6ee0"
 metafile = true
 
 [[files]]
