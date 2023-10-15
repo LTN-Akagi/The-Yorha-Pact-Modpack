@@ -241,6 +241,11 @@ hash = "0fd4e39201d42fc5f347a386b0beedcb7a9e81e3dcf7752d3ae88cd3968e0d27"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "77d7b5fcd55726ae0f52334c96ec7b118d2412e8fe4b156b5d4f7a7479c5aa05"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "03eda3cb7e6a184e591d5853b12125a8b26634363ebfd00f069f177bbe190421"
 metafile = true
