@@ -26,6 +26,21 @@ hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "f5c9f8149dfeb65e1488c5f9775dddb8d0afe6531101dc5519a7ac407b2391d1"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "791468eaff259e0e263ed9ecdc27e3b8caf4fa4ea97597e807ee2df9353db603"
+metafile = true
+
+[[files]]
+file = "mods/ars-omega.pw.toml"
+hash = "4b4d9e1c9f2480505b2c32b06ae6a5524f71e5bb3489af67e073006cbfe6d99e"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
@@ -71,6 +86,11 @@ hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
 metafile = true
 
 [[files]]
+file = "mods/compressedcreativity.pw.toml"
+hash = "c7d25531b2276ff8fd96b346d85cbe6d93b9c41618ff3a7b9992e579b30bfdc6"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "d2493cda0721ddca80f37aff224e0291256176c6b940a06268fdd3eef45b92a1"
 metafile = true
@@ -111,8 +131,18 @@ hash = "b66c36029c70bf52a59496a471bfd238b4c0a55eb08a86461a71b5142e490753"
 metafile = true
 
 [[files]]
+file = "mods/create-modern-train-parts.pw.toml"
+hash = "2230c9283b87ecd6f84a0d6e0764dffb7d81bfb8ad15095c20f7dd092d1cd5cd"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "74ee8faa0009467adfd9366f831c55571b614d2c486718b21d5d5f5ad78a2fa4"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "185ca4df9df3c6a98858643db992a97ccfcec018ba4682fe1ddb88ea4ad96132"
 metafile = true
 
 [[files]]
@@ -156,6 +186,11 @@ hash = "db94734856e1a3e0c33162f530b707e55612d19de7297a54a0efb832ba9ef654"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "38d1fd4c49da8da6251c0a481e8f93ff06430f227411d214c66b5a397753e3e8"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "844c67461a97a2c8da327034806444c66579bc0fc118f0b9a0abe225d77ed7ce"
 metafile = true
@@ -173,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/extra-disks.pw.toml"
 hash = "fa71fee27ddbe8c9fcad5554629334a4692157a5c43b91d2cd8e67e4bf87c484"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "97513b37a73b67a83f0f6fe6a6ff7330dceadca7f87405e262e9476e6b3b39ab"
 metafile = true
 
 [[files]]
@@ -236,6 +276,11 @@ hash = "a09762f8f867b06b55b564bf8bc570a308c8610890b8680f91a44217c751a0e6"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "7121832b2459f6dd4ca2e4571ddd2b7e9fcebc73b2d74f5a8b9c975bc263395c"
+metafile = true
+
+[[files]]
 file = "mods/hole-filler-mod.pw.toml"
 hash = "d77e58b40c750ede0271f604b98e1686c1ec1b1927ad03da5859530fb28a176e"
 metafile = true
@@ -291,8 +336,18 @@ hash = "224dc68333b17b52fbb9e2b69bf67c1b919fcac1125d9bbeae8c8c6613766bfa"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
+metafile = true
+
+[[files]]
 file = "mods/laserio.pw.toml"
 hash = "bbda27d3e070cbe2eec4740b93222694f0a86f50f74edde5f5b23d4c0f13f4c0"
+metafile = true
+
+[[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "d87302d87af9762233ad3030ff3457e94312b77daab8652129b01029cf1a2b76"
 metafile = true
 
 [[files]]
@@ -376,6 +431,11 @@ hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
 
 [[files]]
+file = "mods/paucal.pw.toml"
+hash = "8a77182b14712ca41a03fe2c99d4fe71a4fd54393fa48c8c43f1c89e5604272a"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "45e43a9de14a5e70bc6cede52536235ffeacc5057f1744c1e0f80d1bb3f0fa0a"
 metafile = true
@@ -433,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-utility.pw.toml"
 hash = "89cb63df186c3accb5d4dfd34ac4a527c6601dde043c51d315323d8b04a46dab"
+metafile = true
+
+[[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "d915c31f85d2d02bb621831a8a733b36ef0e7379303ce8fda6ca1d6baabdd8cb"
 metafile = true
 
 [[files]]
@@ -553,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "2e88bcccbcd60288406f1289fa9ab417fe74ab428caadb997a77f5ed022abb6e"
+metafile = true
+
+[[files]]
+file = "mods/universal-grid.pw.toml"
+hash = "a63e3e42660ac63586db5d8a38cb104721f164a22d691fa17918d979f73e7e73"
 metafile = true
 
 [[files]]
