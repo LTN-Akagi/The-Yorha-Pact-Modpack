@@ -291,6 +291,11 @@ hash = "0fd4e39201d42fc5f347a386b0beedcb7a9e81e3dcf7752d3ae88cd3968e0d27"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "61b17065b73cdefcbdc21a3101b9bbff8896df219ae7ad12027c700728c6a2a9"
+metafile = true
+
+[[files]]
 file = "mods/in-control.pw.toml"
 hash = "77d7b5fcd55726ae0f52334c96ec7b118d2412e8fe4b156b5d4f7a7479c5aa05"
 metafile = true
@@ -388,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "58b5a92e86d139e70dec2f524567c8d301e6e14b0384a9cfd81faed8aa2af3af"
+metafile = true
+
+[[files]]
+file = "mods/more-immersive-wires.pw.toml"
+hash = "b48fca66f9b46df6111a443641b3c484042708c3a55f643778e3b6b0ea499da1"
 metafile = true
 
 [[files]]
