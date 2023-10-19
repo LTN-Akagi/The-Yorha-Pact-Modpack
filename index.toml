@@ -71,6 +71,16 @@ hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "d9a854dc615bafee94247c2ad9e9d794f291c37cd03b61b9323222ad4a4a96e5"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "99b055a561787707364958cba2b5d4183130fd4d76b778469e4b69621d0ce066"
+metafile = true
+
+[[files]]
 file = "mods/chunkpregenerator.pw.toml"
 hash = "b7e0a5656760581303aa54e7eeb84538b32bd2a7da3169f20f701685c8600a52"
 metafile = true
@@ -108,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "b0bb61105e0ac0c763edfa41ea5b0406f157bc17e421af1bf8b2cbb49325ced6"
-metafile = true
-
-[[files]]
-file = "mods/create-diesel-generators.pw.toml"
-hash = "384e19fe8d3eaf385cf77d12221f99df67d6a47bd107eaa426fce8f97fd0885d"
 metafile = true
 
 [[files]]
