@@ -241,6 +241,11 @@ hash = "fb43a2bb5fc3c56a05fc8ae902610e5f7ab46f62e58d50b1ec34390ce5698335"
 metafile = true
 
 [[files]]
+file = "mods/flickerfix.pw.toml"
+hash = "07dea3aea9856bfcdbd53d18a6ef44b4a8c41893e934e7d72777d859b5e05280"
+metafile = true
+
+[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "d3e5d8756716534280c0bd4c2caddab5691dc0aeb16a23b76634b108dfc7e291"
 metafile = true
@@ -321,6 +326,11 @@ hash = "b278c5bbfd28feeb69a54f3bd9ad1693e77f348dc7b9727888d6334f94997bae"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "b4622e8d8ede45aa76c6d4595087219effbe83c87ecfa6aa016f70c145d1aa64"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "34beff832b98f209ac50078a6901688c2f1318739c3ebb242ee31d00e2409d3a"
 metafile = true
@@ -398,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "58b5a92e86d139e70dec2f524567c8d301e6e14b0384a9cfd81faed8aa2af3af"
+metafile = true
+
+[[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "86cebca6d48ae03d07e8ea96b2b02bb2a3eadc1ff7a6f8fde064924723ab6b99"
 metafile = true
 
 [[files]]
