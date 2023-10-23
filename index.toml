@@ -221,11 +221,6 @@ hash = "7cb279446ed84b06a98f74399675f0396b03ca44d94216f807e4bfe842068727"
 metafile = true
 
 [[files]]
-file = "mods/dimensional-threading-reforged.pw.toml"
-hash = "312311a7e61ccd16a5a9aabf3b3a14bfb16e06eba1deb448d18acb1bf93edc1d"
-metafile = true
-
-[[files]]
 file = "mods/ding.pw.toml"
 hash = "c62b24b5987a1d3fc4e3d527100a7d2adebca99e9fd2f3b014f7d1db35580cb8"
 metafile = true
