@@ -1,6 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adaptive-performance-tweaks-core.pw.toml"
+hash = "800275fb5c01b831e9b74f9d235d7c02a423e441f23c5979e797ee251c0ab0af"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
+hash = "2660956f72c5b69574eb1b6ce314854c7843ede05b61d487c8ed79748f2cdd3c"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-items.pw.toml"
+hash = "bde470327522c87e39f5b90ce9ad91662958b4e539fef53398c0394ed4f6de53"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-player.pw.toml"
+hash = "4fe0713107edb27be3617db91a29bf7069b898df29d3c583171aea9cda0f7969"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
+hash = "bae4643b0c28d50711e1e419f94344046046caf583cee6155428eb9efe1a0ace"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks.pw.toml"
+hash = "e5b5719156b7ec672db40f6c2cded50ff06fbe8897a6df4a79fe5d1ebd1100ef"
+metafile = true
+
+[[files]]
 file = "mods/advanced-generators.pw.toml"
 hash = "05788726bb7c56e1f71608797b29f472624a1500b5af7cc1a950a9186e2ebf7a"
 metafile = true
@@ -56,6 +86,11 @@ hash = "4412e2a71bec43e1608713854179a3abe13df50a5e0ec7a97c5a0a646959b472"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "f4f164bc6d39167232268cbb4e9a75e53eba6baa8e8fe0c2c3725e2d84a57025"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "9663ee96acafe87505ec857774af6a0c07dbc5a9d5aac90de2ef8bb2fa106aef"
 metafile = true
@@ -71,6 +106,11 @@ hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "d08052537a462b55988c05615626eb7ad3b59262a7f62fd4e08e774b8d45ebe7"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "d9a854dc615bafee94247c2ad9e9d794f291c37cd03b61b9323222ad4a4a96e5"
 metafile = true
@@ -81,8 +121,8 @@ hash = "99b055a561787707364958cba2b5d4183130fd4d76b778469e4b69621d0ce066"
 metafile = true
 
 [[files]]
-file = "mods/chunkpregenerator.pw.toml"
-hash = "b7e0a5656760581303aa54e7eeb84538b32bd2a7da3169f20f701685c8600a52"
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "63430209a289884a9838bb81769104b5def62929c898ff43379e397ff8caad55"
 metafile = true
 
 [[files]]
@@ -181,6 +221,11 @@ hash = "7cb279446ed84b06a98f74399675f0396b03ca44d94216f807e4bfe842068727"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-threading-reforged.pw.toml"
+hash = "312311a7e61ccd16a5a9aabf3b3a14bfb16e06eba1deb448d18acb1bf93edc1d"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "c62b24b5987a1d3fc4e3d527100a7d2adebca99e9fd2f3b014f7d1db35580cb8"
 metafile = true
@@ -193,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "38d1fd4c49da8da6251c0a481e8f93ff06430f227411d214c66b5a397753e3e8"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "8c6063e6c66e1503d0c44d5ee3bfdab56ee59760de8f132fd3d9828a623a7a7a"
 metafile = true
 
 [[files]]
@@ -376,6 +426,11 @@ hash = "fb537f8737c8ee73a27c661ada6636b972a9a580dfd989bd1eabbec50b97a901"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "4213fbf3c69dda9733f205d6a0d8d130cccb10f4271cd6a469bf3c99fa358c89"
+metafile = true
+
+[[files]]
 file = "mods/login-protection.pw.toml"
 hash = "56b6d09fb2ccaceb7bf7f5ed03df651733f92f369220336de4ec9cbe002e88f3"
 metafile = true
@@ -471,6 +526,11 @@ hash = "45e43a9de14a5e70bc6cede52536235ffeacc5057f1744c1e0f80d1bb3f0fa0a"
 metafile = true
 
 [[files]]
+file = "mods/pluto.pw.toml"
+hash = "4ccba84a626f957a1e5bbdcc93be31b6b9fc688061f6ba5aacfb43bc4465a562"
+metafile = true
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "a4a2e35c9cdf314d96cf752ca7a2a2ba5cd2a7ececf64e18ac9beb36935816a7"
 metafile = true
@@ -533,11 +593,6 @@ metafile = true
 [[files]]
 file = "mods/rsinfinitybooster.pw.toml"
 hash = "191ef8604adf7a431069eed8dc025f1431e97065d8141a2a4d5e488fc4c10640"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "3ff8c8b3282ec0c0a4ce16853acf5b7dd23297d4b557b280668b459739c709d0"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Adaptive Performance Tweaks (Bundle)"
+filename = "adaptive_performance_tweaks_1.19.2-10.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0df5b147e3c818ebe3b22d83873dc617de5e9e0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4798519
+project-id = 450269
