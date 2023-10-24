@@ -71,6 +71,11 @@ hash = "4b4d9e1c9f2480505b2c32b06ae6a5524f71e5bb3489af67e073006cbfe6d99e"
 metafile = true
 
 [[files]]
+file = "mods/astikorcarts.pw.toml"
+hash = "1288e6c671796e9fe57239fc7aaa8d6b078c2d52ceb845406eb83b6643b6ac61"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
@@ -318,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
+metafile = true
+
+[[files]]
+file = "mods/gateways-to-eternity.pw.toml"
+hash = "353826495c501b712e25951e29249aba34abf71a7561485a32cb98d587a4db82"
 metafile = true
 
 [[files]]
