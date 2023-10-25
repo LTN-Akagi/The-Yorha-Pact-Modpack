@@ -61,6 +61,11 @@ hash = "f5c9f8149dfeb65e1488c5f9775dddb8d0afe6531101dc5519a7ac407b2391d1"
 metafile = true
 
 [[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "ae34d9ddf39e76a6f5f9a6f7398a06ccf7e0ab92269480b98f6ca6e1dbb9a26b"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "791468eaff259e0e263ed9ecdc27e3b8caf4fa4ea97597e807ee2df9353db603"
 metafile = true
@@ -226,6 +231,11 @@ hash = "7cb279446ed84b06a98f74399675f0396b03ca44d94216f807e4bfe842068727"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "65d63af350191698cf634960b8e8c87b6505a85f8460e1c4c6ee75bdccbbe2b5"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "c62b24b5987a1d3fc4e3d527100a7d2adebca99e9fd2f3b014f7d1db35580cb8"
 metafile = true
@@ -338,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "a09762f8f867b06b55b564bf8bc570a308c8610890b8680f91a44217c751a0e6"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "2f0e93ba37fb1a6a1d4e1b1ea3a73365c4d60f247f6f0aa53d3b13ff1da3e5ca"
 metafile = true
 
 [[files]]
@@ -683,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "e3130b1d0cc8bdcbdc5ddd4de720ec0c6d97996d90fdb5e3a77c17571709cede"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "176eda94ad465f880e240ef29685dfd9b21aac18c1606c8d526b9dcad4a232f4"
 metafile = true
 
 [[files]]
