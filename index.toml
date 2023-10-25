@@ -116,6 +116,16 @@ hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "10df21b71928137330e8c829b444ba3bb04ae9c4ace0160636d1e7375196d346"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "d08052537a462b55988c05615626eb7ad3b59262a7f62fd4e08e774b8d45ebe7"
 metafile = true
@@ -163,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "97575aefd081117027b3ac2c24bf7a56b927b41c9f724d91b0eb42442236b4f6"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "3fcf000f6024fd92200c219830cfe7b5ba25b43b95ab8e5919f72c9575f06d10"
 metafile = true
 
 [[files]]
@@ -476,6 +491,21 @@ hash = "0f733fab14b7f42c6a41da147edf277a937a2c494c8c38ff6df4547fa3935df6"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "0a6a0129d354bbf733d4adb7efd39c6646f790827d76ae3a2e25cc855bdecd4d"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "5ceee998d53af5f7bc5b20b48a695d4e2f19fa60af701376f3e34f6a271c62d9"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "36b3da73d8ce3dfaa5c9a5dae7db10df3ee25f0d32cff6e1cde5407c5e6f271f"
+metafile = true
+
+[[files]]
 file = "mods/mighty-mail.pw.toml"
 hash = "a8d361c26d196e6f6bda0005a189bfe4eed50338462e662ab26764f64c89905a"
 metafile = true
@@ -739,6 +769,10 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "5d2ca495ef1faa94e3d8939f9388d7666a962d98c6d6dde085350d2aeac52367"
 metafile = true
+
+[[files]]
+file = "scripts/mod/projecte/removegem.zs"
+hash = "a77ee85d930e6e80efce146c352c7f05b2f2451999b79be7fd7c0cc3c43154f8"
 
 [[files]]
 file = "servers.dat"
