@@ -36,6 +36,11 @@ hash = "05788726bb7c56e1f71608797b29f472624a1500b5af7cc1a950a9186e2ebf7a"
 metafile = true
 
 [[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "7d0eaa4dcbca122712fffb4cd8b02450d0b7bf9d0e08899bb82967a4471dc3b6"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
 metafile = true
@@ -67,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "791468eaff259e0e263ed9ecdc27e3b8caf4fa4ea97597e807ee2df9353db603"
+hash = "815f90031384b5db79edc7f3b892d4fd34068534fbe5a50e371e734ce5d53c99"
 metafile = true
 
 [[files]]
@@ -107,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "9f262ac2d10a586a43e3b12f45c81a59b2c99c90dbacca533766d926e91387c3"
+hash = "a5dd9a092e9fe56c91020c58f5b3e2153a0a691ff59d429061bb3d66069435be"
 metafile = true
 
 [[files]]
@@ -187,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "6e744df0dd8dd38ccd00872e80a4ea449bde3f798ef2deb5018d905fe714af53"
+hash = "a0e6a473085c50b36c33924dbe5c36921a0a8a4a07acc72215bbbfabf3ec0b6b"
 metafile = true
 
 [[files]]
@@ -232,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "2e85f6535c148d7d538b0f80d5f17f15c8b182c25c5b6524df2b8341b88ccb53"
+hash = "164205fa6e64cbe27b2b383698cd2f9d42ff1b19ed820b95eb72e7d7eeadfde7"
 metafile = true
 
 [[files]]
@@ -257,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "db94734856e1a3e0c33162f530b707e55612d19de7297a54a0efb832ba9ef654"
+hash = "42d204e4de3abe587ff8e7ff3041d85204ed45e7ea8c1e4251b3a0eddd7e23ac"
 metafile = true
 
 [[files]]
@@ -402,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/interiors.pw.toml"
-hash = "b649b5e55aabc9705d2a29a882953d290c935deac1a89807ff1450f0200b105c"
+hash = "bd2635eb30b001d61df0c30f43b007cc41328b6b2b72c85aaa3b4cf8d6425ace"
 metafile = true
 
 [[files]]
@@ -512,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "58b5a92e86d139e70dec2f524567c8d301e6e14b0384a9cfd81faed8aa2af3af"
+hash = "83b650da55c46719ac0925230c453c974f75de9923ccd8bfb9cff1c9d4d9a5a1"
 metafile = true
 
 [[files]]
@@ -587,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
+hash = "a31ad085cc2d7044c380ea5015c1b944554e3d4cc76d57e939cf70bcbeb4b5dc"
 metafile = true
 
 [[files]]
@@ -597,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "c05a8ae6d461c9b75bf1fb3257c2aa8479d87f08385c134a0747d763f8d0ca4a"
+hash = "d06f9962b29db69d2e8fb32940cf29471eb6230043dc5fb9d341af36148a09c3"
 metafile = true
 
 [[files]]
@@ -682,12 +687,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3d0969ca93eae141c20b8b36f4361d080792947694ae637c6f491e4ba59616da"
+hash = "64d6d2b4b9b9960013ee67b62bfee64daec02d957b1689c783a1ea01c24d445a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9dfa946fa7c878c945f1d37f4b8131f0cb51e137c23a423be7d804bed9142c01"
+hash = "6d00f58cff712ec72a8ae7a682faf73777cf9e37c2b73bf0ed57ebe55312da0b"
 metafile = true
 
 [[files]]
@@ -697,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "1e0652cdd7f9d2253a3bb0058d05c94dfe5a3ca4186b2d27074587b64ed63db9"
+hash = "9e699a15cca1c0c5fa771d914127decb0008e6c3fb3a50f1ea391057db1a1db0"
 metafile = true
 
 [[files]]
