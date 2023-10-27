@@ -306,6 +306,11 @@ hash = "d127e484368f38af2791d8e9964a9d292934ddf9182f9c62b1c3cd5211b05795"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "811656f03f38946d6cd2bf07409f2b9d429d4fd3e861bb1677bcda61b334085c"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
 metafile = true
