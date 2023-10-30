@@ -1,36 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/adaptive-performance-tweaks-core.pw.toml"
-hash = "800275fb5c01b831e9b74f9d235d7c02a423e441f23c5979e797ee251c0ab0af"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
-hash = "2660956f72c5b69574eb1b6ce314854c7843ede05b61d487c8ed79748f2cdd3c"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-items.pw.toml"
-hash = "bde470327522c87e39f5b90ce9ad91662958b4e539fef53398c0394ed4f6de53"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-player.pw.toml"
-hash = "4fe0713107edb27be3617db91a29bf7069b898df29d3c583171aea9cda0f7969"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
-hash = "bae4643b0c28d50711e1e419f94344046046caf583cee6155428eb9efe1a0ace"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks.pw.toml"
-hash = "e5b5719156b7ec672db40f6c2cded50ff06fbe8897a6df4a79fe5d1ebd1100ef"
-metafile = true
-
-[[files]]
 file = "mods/advanced-generators.pw.toml"
 hash = "05788726bb7c56e1f71608797b29f472624a1500b5af7cc1a950a9186e2ebf7a"
 metafile = true
@@ -323,11 +293,6 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "fb43a2bb5fc3c56a05fc8ae902610e5f7ab46f62e58d50b1ec34390ce5698335"
-metafile = true
-
-[[files]]
-file = "mods/flickerfix.pw.toml"
-hash = "07dea3aea9856bfcdbd53d18a6ef44b4a8c41893e934e7d72777d859b5e05280"
 metafile = true
 
 [[files]]
