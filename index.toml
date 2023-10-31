@@ -116,6 +116,11 @@ hash = "99b055a561787707364958cba2b5d4183130fd4d76b778469e4b69621d0ce066"
 metafile = true
 
 [[files]]
+file = "mods/chococraft.pw.toml"
+hash = "9471876c077e556506748e42ce64112b490b1951d52e452a089f0f438ea5d089"
+metafile = true
+
+[[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "63430209a289884a9838bb81769104b5def62929c898ff43379e397ff8caad55"
 metafile = true
@@ -261,6 +266,11 @@ hash = "b19a3aa3cc9f6928836eba2f24b0b8165f86c036640be4f58bd6da0ff09a3e4f"
 metafile = true
 
 [[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "662897feede4d32ef55c2bd20cc943a6377ac7ccd6c33d35b0b0adcc7029b10d"
+metafile = true
+
+[[files]]
 file = "mods/extra-disks.pw.toml"
 hash = "fa71fee27ddbe8c9fcad5554629334a4692157a5c43b91d2cd8e67e4bf87c484"
 metafile = true
@@ -273,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "d127e484368f38af2791d8e9964a9d292934ddf9182f9c62b1c3cd5211b05795"
+metafile = true
+
+[[files]]
+file = "mods/fantasys-furniture.pw.toml"
+hash = "9393c4c757844d2c81dbce37a85b5b88be73fa7b281a70c17c620361d659f788"
 metafile = true
 
 [[files]]
@@ -456,6 +471,11 @@ hash = "8958d700cb45ca9dab94fe314702e0c548a31b2d5e83711433923a3018ac71a8"
 metafile = true
 
 [[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "5767d3889f96b5d44dbee3b9178ce7c97db7f01b7f60fa58faacb25f5f85e4ea"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "5da4f927ed15f0cb187a5fc90af5ba7772e257521cc9537d095bc2287a44de09"
 metafile = true
@@ -636,6 +656,11 @@ hash = "cf575978506d35bf612f7e3c4941baf6caad299064146a917b5d25504fc77c42"
 metafile = true
 
 [[files]]
+file = "mods/signpost.pw.toml"
+hash = "0399dd58083acfe674dc14bf9a53ae7a33af1948a5503c783176fad3eeb9f00d"
+metafile = true
+
+[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "0f1b9970b4dddf8ff69a778c25dcadda8e91e0305c26581ebb7c1d7f54c3b7f9"
 metafile = true
@@ -643,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/simple-drying-racks.pw.toml"
 hash = "f2ae20ddc9f4bee0dabc3bce7314aa8376213f1770e505efc6c7956f77f00bb3"
+metafile = true
+
+[[files]]
+file = "mods/sit.pw.toml"
+hash = "094d9828ac94c8a01c0c66fe0818e1ba7062664f5335448d8994339945fedf2e"
 metafile = true
 
 [[files]]
@@ -741,8 +771,18 @@ hash = "a63e3e42660ac63586db5d8a38cb104721f164a22d691fa17918d979f73e7e73"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "2aaf14a9ab21ed03050624d31fb02a6e8c05b56c281561e173a515ebe5b86790"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "5d2ca495ef1faa94e3d8939f9388d7666a962d98c6d6dde085350d2aeac52367"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "69c5bf23bb8e3e16e18d7bf1861dc2475a35ccec36a93c11c01e18efa7a4ab42"
 metafile = true
 
 [[files]]
