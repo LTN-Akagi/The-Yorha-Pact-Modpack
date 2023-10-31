@@ -51,6 +51,11 @@ hash = "4b4d9e1c9f2480505b2c32b06ae6a5524f71e5bb3489af67e073006cbfe6d99e"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "75ed8d650127ffb977ae124a4c40de6f1068bab908bc7be7bd710e8184ec347b"
+metafile = true
+
+[[files]]
 file = "mods/astikorcarts.pw.toml"
 hash = "1288e6c671796e9fe57239fc7aaa8d6b078c2d52ceb845406eb83b6643b6ac61"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
+metafile = true
+
+[[files]]
+file = "mods/brutal-bosses-dungeon.pw.toml"
+hash = "dea63c493a7ab90e3b532391321ee9aa6c3fb6d2d39c2f79a4e78c276177e0f0"
 metafile = true
 
 [[files]]
@@ -211,6 +221,11 @@ hash = "0c96d11ee0a334fc444a623848602afd153a2180aeac80b8f0ed01ca72ba7c0b"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "b2a8a34e87a5ffdbfcb35d1df344e630ac968aad359eced94aa58a184f2d3fa8"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "164205fa6e64cbe27b2b383698cd2f9d42ff1b19ed820b95eb72e7d7eeadfde7"
 metafile = true
@@ -238,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "42d204e4de3abe587ff8e7ff3041d85204ed45e7ea8c1e4251b3a0eddd7e23ac"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-crawl.pw.toml"
+hash = "d30f94aab18d9ad671e52d77c8b9b081c46d9084a7e8177d03b4723e1e094a4e"
 metafile = true
 
 [[files]]
@@ -568,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "45e43a9de14a5e70bc6cede52536235ffeacc5057f1744c1e0f80d1bb3f0fa0a"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "bd07efacced5ec36b00a5832341173d6a71868e6b34afa872e17474b92702a85"
 metafile = true
 
 [[files]]
