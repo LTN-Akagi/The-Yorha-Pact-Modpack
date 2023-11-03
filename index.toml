@@ -91,6 +91,11 @@ hash = "a5dd9a092e9fe56c91020c58f5b3e2153a0a691ff59d429061bb3d66069435be"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "045f5e5c2ecfa5949e413b7f257ef352dc8f61fbf1ad1e1756f8930f88458368"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
@@ -247,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "c62b24b5987a1d3fc4e3d527100a7d2adebca99e9fd2f3b014f7d1db35580cb8"
+hash = "c7d7fb22bd63069295b7a26274b0d8bc07092aa5e1310708f41170a09bdd72c9"
 metafile = true
 
 [[files]]
@@ -402,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-control.pw.toml"
-hash = "77d7b5fcd55726ae0f52334c96ec7b118d2412e8fe4b156b5d4f7a7479c5aa05"
+hash = "e6031d8d1c32fbb18bbfc6e2dc88cd4b7760dd8f7659c1cba821e082209e4461"
 metafile = true
 
 [[files]]
@@ -462,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
-hash = "d87302d87af9762233ad3030ff3457e94312b77daab8652129b01029cf1a2b76"
+hash = "747fdf61ef74db571cb9ba97792c7ba8c3712720cfceb23e990a6297ca0e1521"
 metafile = true
 
 [[files]]
@@ -472,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/log-begone.pw.toml"
-hash = "4213fbf3c69dda9733f205d6a0d8d130cccb10f4271cd6a469bf3c99fa358c89"
+hash = "a62ef70634ae0acb2ef1b6db7e5c0b9f8dc2def57670d655e582ee4b05c54ba1"
 metafile = true
 
 [[files]]
@@ -493,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
 hash = "5767d3889f96b5d44dbee3b9178ce7c97db7f01b7f60fa58faacb25f5f85e4ea"
+metafile = true
+
+[[files]]
+file = "mods/mc2discord.pw.toml"
+hash = "7d8aae68df17d630242b765901ed9fcf44051e83e86b20f73ca6c6471d23614f"
 metafile = true
 
 [[files]]
@@ -557,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "ad5ea7db099e46fb75851c3ec91393256006c78e55eb4615ca7c764f1668e2e8"
+hash = "e7843e20e052f74f69cb82db6613b83ff2394f25541b1b501ae8838cab755ca4"
 metafile = true
 
 [[files]]
