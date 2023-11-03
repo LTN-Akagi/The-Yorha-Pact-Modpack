@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "811656f03f38946d6cd2bf07409f2b9d429d4fd3e861bb1677bcda61b334085c"
+hash = "028e1e2a4ae6b73e19768f03a375d17600f1e24fa000016efc3f1e263dd3ba76"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/login-protection.pw.toml"
-hash = "56b6d09fb2ccaceb7bf7f5ed03df651733f92f369220336de4ec9cbe002e88f3"
+hash = "f0fbc2700918da890f98027ed75fa7f2864a73dc069425ee3c40e366c28df32c"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
+hash = "71ea9ac031814496a679ede967bbd8db9b765a2725dbfddee7f0b90e653abd38"
 metafile = true
 
 [[files]]
